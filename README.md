@@ -103,3 +103,10 @@ The attacker:
 ```text
 Duration: 300 ms -> Likely 0
 Duration: 800 ms -> Likely 1
+```
+## Vulnerable Mode
+```text
+Duration: 400 ms
+Duration: 400 ms
+Duration: 400 ms
+```
